@@ -239,7 +239,7 @@ export default function Home() {
       </div>
 
       <footer className={theme ? styles.footer : styles.footerDark}>
-        Made with IzZy &#128947; with Crypto Devs..
+        Made with &#128947; with Crypto Devs..
        </footer>
     </div>
   );
